@@ -6,7 +6,7 @@ const Home = () =>(
                 <div className="home-items">
                     <div className="pmps">
                         <div className="pmps-cover">
-                            <span>Nivel start</span>
+                            <span>START</span>
                             <div className="pmps-type">
                                 PMP tipo     
                             </div>    

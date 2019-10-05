@@ -14,7 +14,7 @@ const Home = () =>(
 
                         <div className="pmps-content">
                             <div className="pmps-head">
-                                <h2>Nombre PMP</h2>
+                                <h2>Nombre PMP hello percy</h2>
                                 <i>Genero</i>
                             </div>
                             <div className="pmps-date">

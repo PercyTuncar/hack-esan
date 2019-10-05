@@ -8,7 +8,7 @@ import Home from './pages/Home'
 import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
 import Project from './pages/Project';
-
+import 'bootstrap/dist/css/bootstrap.css';
 const App =()=>(
  
 <BrowserRouter>
